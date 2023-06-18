@@ -143,6 +143,14 @@ h6 {
   #header h1{
     text-align: center;
   }
+  #log {
+    margin-top:-30rem;
+    width:15rem;
+    display: flex;
+    justify-content:center;
+    align-items:center;
+    position: absolute;
+  }
 
   #header .countdown div h3 {
     font-size: 28px;
